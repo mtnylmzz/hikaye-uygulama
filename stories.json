@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Kayıp Şehir",
+    "author": "Ali",
+    "content": "Bir zamanlar kayıp bir şehir vardı...",
+    "choices": ["Keşfetmeye devam et", "Geri dön"]
+  }
+]
